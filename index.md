@@ -1,4 +1,4 @@
-## Bot Status
+## BOT STATUS
 
 |**SERVICE NAME**|**STATUS**|
 |:----------|:----------|:--------------|
