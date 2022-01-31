@@ -4,7 +4,7 @@
 |:----------|:----------|:--------------|
 |BOT ACTIVE|Good and operative|
 |DATA BASE|Good and operative|
-|COMMANDS|Not soleved / Solving error|
+|COMMANDS|Good and operative|
 
 
 ## WEBSITE
