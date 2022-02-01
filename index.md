@@ -3,7 +3,7 @@
 |**SERVICE NAME**|**STATUS**|
 |:----------|:----------|:--------------|
 |BOT ACTIVE|Good and operative|
-|DATA BASE|DataBase Not founded|
+|DATA BASE|Good and operative|
 |BOT ACTIVITY|Good and operative|
 |COMMANDS|Good and operative / In testing|
 
@@ -12,19 +12,19 @@
 
 |**SERVICE NAME**|**STATUS**|
 |:----------|:----------|:--------------|
-|HOME|ERROR|
-|SUPPORT|ERROR|
-|DASHBOARD|ERROR|
-|PREMIUM|ERROR|
-|COMMANDS WEB|ERROR|
-|FOOTER|ERROR|
-|NAVBAR|ERROR|
-|CONTACT|ERROR|
+|HOME|Good and operative|
+|SUPPORT|Good and operative|
+|DASHBOARD|Good and operative|
+|PREMIUM|Good and operative|
+|COMMANDS WEB|Good and operative|
+|FOOTER|Good and operative|
+|NAVBAR|Good and operative|
+|CONTACT|Good and operative|
 
 
 ## CAPTCHAS
 
 |**SERVICE NAME**|**STATUS**|
 |:----------|:----------|:--------------|
-|CONTACT CAPTCHA|¿¿|
-|SUPPORT CAPTCHA|¿¿|
+|CONTACT CAPTCHA|Good and operative|
+|SUPPORT CAPTCHA|Good and operative|
