@@ -5,7 +5,7 @@
 |BOT ACTIVE|Good and operative|
 |DATA BASE|Good and operative|
 |BOT ACTIVITY|Good and operative|
-|COMMANDS|Error with commands / identified|
+|COMMANDS|Good and operative / In testing|
 
 
 ## WEBSITE
